@@ -1,0 +1,10 @@
+{
+  "main": "bookmyhotelapi.raml",
+  "name": "BookMyHotelAPI",
+  "groupId": "3363548d-85c3-4036-b57b-0ec41de03140",
+  "assetId": "bookmyhotelapi",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0"
+}
